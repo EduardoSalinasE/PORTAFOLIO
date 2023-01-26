@@ -190,6 +190,7 @@ span {
     width: 300px;
     background-color: #2b3058;
     margin: 1em;
+    animation: fadeIn 3s ease;
 }
 
 .card__img {
